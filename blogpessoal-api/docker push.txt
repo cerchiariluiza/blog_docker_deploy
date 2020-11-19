@@ -1,0 +1,3 @@
+docker tag blogpessoaldeploy-completo_blogpessoal-api:latest 23012020/minhaapp
+
+docker login docker.io 
